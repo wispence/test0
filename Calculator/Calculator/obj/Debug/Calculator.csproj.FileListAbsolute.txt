@@ -1,0 +1,12 @@
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\obj\Debug\Calculator.Calc.resources
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\projectcalc\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\projectcalc\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\study\3 c\2 sem\ITCSO\Repo\ProjectCalc\projectcalc\Calculator\Calculator\obj\Debug\Calculator.pdb
